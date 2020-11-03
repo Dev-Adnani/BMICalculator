@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <!--about developer-->
+    <string name="abt_dev">About App</string>
+    <string name="abt_mk">About Developer</string>
+    <string name="about_dev">Dev Adnani is Tech enthusiast skilled with programming logic, and algorithms  He\'s who enjoys solving problems and is highly passionate about Android and Web development.</string>
+    <string name="contact_title_dev">Contact Dev Adnani</string>
+    <string name="contact_dev"> Feel Free To Contact Me If You Have Any Queries </string>
+    <string name="mail_id">dev.adnani26@gmail.com </string>
+    <string name="open_mail">Click Here To Mail Me </string>
+    <string name="about_bmi">Body mass index is a value derived from the mass and height of a person. The BMI is defined as the body mass divided by the square of the body height, and is universally expressed in units of kg/m², resulting from mass in kilograms and height in metres. </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="weight">Weight</string>
+    <string name="minus">-</string>
+    <string name="age_def">19</string>
+    <string name="centimeter">cm</string>
+    <string name="age">Age</string>
+    <string name="weight_def">50</string>
+    <string name="height">Height</string>
+    <string name="height_def">0 cm</string>
+    <string name="submit">Submit</string>
+    <string name="underage">You Must Be 2 Years Or Above Inorder To Calculate BMI</string>
+    <string name="underweight">You Must Be 2 Kg Or Above Inorder To Calculate BMI</string>
+    <string name="sample">Your BMI Calculated Is </string>
+    <string name="recheck_bmi">Recheck BMI</string>
+
+
+</resources>
